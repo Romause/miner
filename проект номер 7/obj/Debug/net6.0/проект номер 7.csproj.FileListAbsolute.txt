@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\проект номер 7\bin\Debug\net6.0\проект номер 7.exe
+C:\Users\user\source\repos\проект номер 7\bin\Debug\net6.0\проект номер 7.deps.json
+C:\Users\user\source\repos\проект номер 7\bin\Debug\net6.0\проект номер 7.runtimeconfig.json
+C:\Users\user\source\repos\проект номер 7\bin\Debug\net6.0\проект номер 7.dll
+C:\Users\user\source\repos\проект номер 7\bin\Debug\net6.0\проект номер 7.pdb
+C:\Users\user\source\repos\проект номер 7\obj\Debug\net6.0\проект номер 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\проект номер 7\obj\Debug\net6.0\проект номер 7.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\проект номер 7\obj\Debug\net6.0\проект номер 7.AssemblyInfo.cs
+C:\Users\user\source\repos\проект номер 7\obj\Debug\net6.0\проект номер 7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\проект номер 7\obj\Debug\net6.0\проект номер 7.dll
+C:\Users\user\source\repos\проект номер 7\obj\Debug\net6.0\refint\проект номер 7.dll
+C:\Users\user\source\repos\проект номер 7\obj\Debug\net6.0\проект номер 7.pdb
+C:\Users\user\source\repos\проект номер 7\obj\Debug\net6.0\проект номер 7.genruntimeconfig.cache
+C:\Users\user\source\repos\проект номер 7\obj\Debug\net6.0\ref\проект номер 7.dll
